@@ -199,11 +199,3 @@ body {
 .intro #hashtag {
   display: none;
 }
-
-html {
-  font-size: 22px;
-}
-
-.reveal h1 {
-  font-size: 2.7em;
-}

@@ -1,8 +1,3 @@
-# Creating a Culture of Performance
+# What really matters in Web Performance?
 
 Note: Performance is important. Very important.
-
-
-Other similar presentations that have some great resources:
-
-* https://www.youtube.com/watch?v=0bRLtJHo0pI
