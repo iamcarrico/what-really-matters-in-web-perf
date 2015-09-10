@@ -80,7 +80,7 @@
         },
         pages: {
           options: {
-            remote: 'git@github.com:iamcarrico/dns-what-do-all-these-letters-mean.git',
+            remote: 'git@github.com:iamcarrico/what-really-matters-in-web-perf.git',
             branch: 'gh-pages'
           }
         }
