@@ -23,6 +23,66 @@
   ],
   [
     {
+      "filename": "critical/pipeline.md",
+      "attr": {
+        "data-state": "critical",
+        "id": "pipeline"
+      }
+    },
+    {
+      "filename": "critical/rules.md",
+      "attr": {
+        "data-state": "critical",
+        "id": "rules"
+      }
+    },
+    {
+      "filename": "critical/css.md",
+      "attr": {
+        "data-state": "pipeline",
+        "id": "css"
+      }
+    },
+    {
+      "filename": "critical/javascript.md",
+      "attr": {
+        "data-state": "pipeline",
+        "id": "javascript"
+      }
+    },
+    {
+      "filename": "critical/html.md",
+      "attr": {
+        "data-state": "pipeline",
+        "id": "html"
+      }
+    },
+    {
+      "filename": "critical/images.md",
+      "attr": {
+        "data-state": "pipeline",
+        "id": "images"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "testing/testing.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "testing"
+      }
+    },
+    {
+      "filename": "testing/base-tools.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "base-tools"
+      }
+    }
+  ],
+  [
+    {
       "filename": "wrap/wrap-up.md",
       "attr": {
         "data-state": "wrap",

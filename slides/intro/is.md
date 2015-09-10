@@ -1,6 +1,5 @@
 ## What is this?
 
-* 1000/100/6 <!-- .element: class="fragment" -->
-*  <!-- .element: class="fragment" -->
-*  <!-- .element: class="fragment" -->
-*  <!-- .element: class="fragment" -->
+* Critical rendering path <!-- .element: class="fragment" -->
+* Testing performance <!-- .element: class="fragment" -->
+* Performance tricks <!-- .element: class="fragment" -->
