@@ -175,12 +175,20 @@ body {
 .intro .state-background {
   background-color: black;
 }
-.guidelines .state-background, .render .state-background {
+.critical .state-background {
+  background-color: white;
+}
+.testing .state-background {
   background-color: #97e52d;
+}
+.further .state-background {
+  background-color: #00944A;
+}
+.tricks .state-background {
+  background-color: #2090b4;
 }
 
 [data-state="sassy"],
-[data-state="testing"],
 [data-state="intro"],
 [data-state="alert"] {
   color: white;
