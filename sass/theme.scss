@@ -184,14 +184,24 @@ html {
     background-color: black;
   }
 
-  .guidelines &,
-  .render & {
+  .critical & {
+    background-color: white;
+  }
+
+  .testing & {
     background-color: #97e52d;
+  }
+
+  .further & {
+    background-color: #00944A;
+  }
+
+  .tricks & {
+    background-color: #2090b4;
   }
 }
 
 [data-state="sassy"],
-[data-state="testing"],
 [data-state="intro"],
 [data-state="alert"]{
   color: white;
