@@ -93,6 +93,13 @@
         "data-state": "testing",
         "id": "monitoring"
       }
+    },
+    {
+      "filename": "testing/chrome.md",
+      "attr": {
+        "data-state": "testing",
+        "id": "chrome"
+      }
     }
   ],
   [
@@ -101,6 +108,41 @@
       "attr": {
         "data-state": "tricks",
         "id": "tricks"
+      }
+    },
+    {
+      "filename": "tricks/or.md",
+      "attr": {
+        "data-state": "tricks",
+        "id": "or"
+      }
+    },
+    {
+      "filename": "tricks/cdn.md",
+      "attr": {
+        "data-state": "tricks",
+        "id": "cdn"
+      }
+    },
+    {
+      "filename": "tricks/prefetch.md",
+      "attr": {
+        "data-state": "tricks",
+        "id": "prefetch"
+      }
+    },
+    {
+      "filename": "tricks/budgets.md",
+      "attr": {
+        "data-state": "tricks",
+        "id": "budgets"
+      }
+    },
+    {
+      "filename": "tricks/team.md",
+      "attr": {
+        "data-state": "tricks",
+        "id": "team"
       }
     }
   ],
@@ -138,6 +180,13 @@
       "attr": {
         "data-state": "further",
         "id": "slack"
+      }
+    },
+    {
+      "filename": "further/people.md",
+      "attr": {
+        "data-state": "further",
+        "id": "people"
       }
     }
   ],

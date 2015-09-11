@@ -155,6 +155,9 @@ body {
   background: rgba(0, 0, 0, 0.7);
   margin-top: 31em;
 }
+.reveal .small {
+  text-transform: lowercase !important;
+}
 
 .intro .reveal .controls div.navigate-left {
   border-right-color: white;
