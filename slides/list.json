@@ -111,6 +111,34 @@
         "data-state": "further",
         "id": "further"
       }
+    },
+    {
+      "filename": "further/ebooks.md",
+      "attr": {
+        "data-state": "further",
+        "id": "ebooks"
+      }
+    },
+    {
+      "filename": "further/sites.md",
+      "attr": {
+        "data-state": "further",
+        "id": "sites"
+      }
+    },
+    {
+      "filename": "further/conferences.md",
+      "attr": {
+        "data-state": "further",
+        "id": "conferences"
+      }
+    },
+    {
+      "filename": "further/slack.md",
+      "attr": {
+        "data-state": "further",
+        "id": "slack"
+      }
     }
   ],
   [
